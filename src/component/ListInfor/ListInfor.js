@@ -36,7 +36,7 @@ function ListInfor({data}) {
 
           ))}
         </table>
-       
+  
         <button className="btn-add"> Add </button>
       </div>
     </div>
